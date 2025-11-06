@@ -58,7 +58,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 [Hackathon Projects](https://github.com/laddumanjhi/Hackthon-Projects)  
+### 🔹 [Hackathon Projects](https://github.com/manjhicodecraft/Hackthon-Projects)  
 💡 A collection of hackathon submissions & prototypes built under time constraints.  
 🛠️ *Tech Stack:* C, C++, HTML, CSS  
 
@@ -77,7 +77,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=laddumanjhi&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=laddumanjhi&layout=compact&theme=dracula" height="150" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=laddumanjhi&theme=dracula" height="150" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manjhicodecraft&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manjhicodecraft&layout=compact&theme=dracula" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjhicodecraft&theme=dracula" height="150" alt="Streak Stats" />
 </div>
