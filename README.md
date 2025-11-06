@@ -28,7 +28,7 @@
 ## 📬 Contact Me
 <p align="left">
   <a href="mailto:kajalmanjhi0407@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-  <a href="https://github.com/laddumanjhi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+  <a href="https://github.com/manjhicodecraft"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
   <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </p>
 
@@ -64,13 +64,13 @@
 
 
 
-### 🔹 [Vani AI](https://github.com/laddumanjhi/Vani-Ai)  
+### 🔹 [Vani AI](https://github.com/manjhicodecraft/Vani-Ai)  
 🎙️ An AI-powered **voice assistant app** that responds to commands and helps automate tasks.  
 🛠️ *Tech Stack:* Python, AI/ML Concepts  
 
 
 
-### 🔹 [Inventory Management System](https://github.com/laddumanjhi/Inventory-Management-System)  
+### 🔹 [Inventory Management System](https://github.com/manjhicodecraft/Inventory-Management-System)  
 📦 A system to **track, update, and manage stock** efficiently with a user-friendly interface.  
 🛠️ *Tech Stack:* C++, File Handling  
 
