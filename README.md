@@ -15,7 +15,8 @@
 - 🤝 Love collaborating on **team projects** that challenge my thinking  
 - 🌱 Currently learning **Java**  
 - 💬 Ask me about **C and C++**  
-- 📫 Reach me at: **kajalmanjhi0407@gmail.com**  
+- 📫 Reach me at: **kajalmanjhi0407@gmail.com**
+- 👨‍💻 All of my projects are available at **https://manjhicodecraft.github.io/portfolio/**
 - ⚡ Fun fact: Just started learning **GitHub** 🎉  
 
 <h3 align="left">🏆 Hackathon Experience</h3>
