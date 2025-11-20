@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=laddumanjhi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
 
 ## 🙋‍♀️ About Me
 
@@ -20,7 +19,7 @@
 - 🌐 Portfolio: **[Click here to view](https://manjhicodecraft.github.io/portfolio/)**  
 - ⚡ Fun fact: Just started learning **GitHub** 🎉  
 
----
+
 
 ## 🏆 Hackathon Experience
 
@@ -28,7 +27,7 @@
 - 💡 **HackPrix**, Lord Institute Hyderabad – Focused on creativity and real-world solutions  
 - 🚀 **RNTU Tech-Fest Hackathon** – Showcased technical + teamwork skills  
 
----
+
 
 ## 📬 Connect With Me
 
@@ -38,7 +37,7 @@
   <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
+
 
 ## 🛠️ Languages & Tools
 
@@ -72,7 +71,7 @@
 
 </div>
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -80,19 +79,19 @@
 💡 A collection of hackathon prototypes built under tight deadlines.  
 🛠 **Tech Stack:** C, C++, HTML, CSS  
 
----
+
 
 ### 🔹 [Vani AI](https://github.com/manjhicodecraft/Vani-Ai)
 🎙️ AI-powered **voice assistant** capable of executing commands & automating tasks.  
 🛠 **Tech Stack:** Python, AI/ML  
 
----
+
 
 ### 🔹 [Inventory Management System](https://github.com/manjhicodecraft/Inventory-Management-System)
 📦 Tracks, updates, and manages stock efficiently using file handling.  
 🛠 **Tech Stack:** C++  
 
----
+
 
 ## 📊 GitHub Stats
 
