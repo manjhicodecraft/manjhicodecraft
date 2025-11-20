@@ -28,9 +28,6 @@
 - 🚀 **RNTU Tech-Fest Hackathon** – Showcased technical + teamwork skills  
 
 
-
-## 📬 Connect With Me
-
 ## 📬 Connect With Me
 
 <p align="left">
@@ -109,7 +106,7 @@
 
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manjhicodecraft&show_icons=true&theme=dracula" height="150" />
