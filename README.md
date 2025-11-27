@@ -65,13 +65,6 @@
 </p>
 
 <!-- Web Development -->
-<h4>Web Development</h4>
-<p>
-  <img src="https://skillicons.dev/icons?i=html" width="45" />
-  <img src="https://skillicons.dev/icons?i=css" width="45" />
-  <img src="https://skillicons.dev/icons?i=react" width="45" />
-  <img src="https://skillicons.dev/icons?i=javascript" width="45" />
-</p>
 
 <!-- Tools -->
 <h4>Tools & OS</h4>
@@ -80,6 +73,7 @@
   <img src="https://skillicons.dev/icons?i=linux" width="45" />
   <img src="https://skillicons.dev/icons?i=vscode" width="45" />
   <img src="https://skillicons.dev/icons?i=git" width="45" />
+  <img src="https://skillicons.dev/icons?i=idea" width="45" />
 </p>
 
 </div>
