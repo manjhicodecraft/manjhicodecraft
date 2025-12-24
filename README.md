@@ -98,6 +98,10 @@
 📦 Tracks, updates, and manages stock efficiently using file handling.  
 🛠 **Tech Stack:** C++  
 
+### 🔹 [Personal Expense Tracker](https://github.com/manjhicodecraft/minor-project-submit)
+📊 A simple and efficient application to track daily expenses, manage budgets, and analyze spending habits  
+🛠 **Tech Stack:** Java+spring boot , react js 
+
 
 
 ## 📊 GitHub Status
