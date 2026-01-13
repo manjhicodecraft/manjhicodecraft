@@ -102,6 +102,12 @@
 📊 A simple and efficient application to track daily expenses, manage budgets, and analyze spending habits.
 🛠 **Tech Stack:** Java+spring boot , react js 
 
+### 🔹 [College EventHub](https://github.com/manjhicodecraft/College-Event-Hub.git)
+🎓 **College EventHub** is a **centralized full-stack web application** that brings all technical college events across **India** onto one unified platform.  
+📢 It helps students **discover, track, and participate** in events easily without missing opportunities.  
+
+🛠 **Tech Stack:** Java (Spring Boot), React.js, Full-Stack Web Development  
+
 
 
 ## 📊 GitHub Status
