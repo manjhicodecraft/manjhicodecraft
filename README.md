@@ -16,7 +16,7 @@
 - 🤝 Love collaborating on team-based projects  
 - 💬 Ask me about **C and C++**  
 - 📫 Reach me at: **kajalmanjhi0407@gmail.com**  
-- 🌐 Portfolio: **[Click here to view](https://manjhicodecraft.github.io/portfolio/)**  
+- 🌐 Portfolio: **[Click here to view](https://new-portfolio-portfolio.vercel.app/)**  
 - ⚡ Fun fact: Just started learning **GitHub** 🎉  
 
 
