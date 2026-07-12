@@ -9,12 +9,16 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 I'm a Computer Science Engineering student and Co-Founder of **TheCOdex Software Solutions**, an early-stage software startup focused on building AI-powered products, SaaS platforms, cybersecurity tools, and business automation solutions. 
+- 🎓 I'm a Computer Science Engineering student and Co-Founder of **TheCOdex Software Solutions**, an early-stage software startup focused on building AI-powered     products, SaaS platforms, cybersecurity tools, and business automation solutions. 
 - 🧠 Passionate about solving **real-world problems**  
-  💡 I enjoy transforming innovative ideas into scalable software products using modern technologies while continuously learning, building, and solving real-world problems.
+  💡 I enjoy transforming innovative ideas into scalable software products using modern technologies while continuously learning, building, and solving real-world    problems.
 - 🤝 Love collaborating on team-based projects  
 - 📫 Reach me at: **kajalmanjhi0407@gmail.com**  
-- 🌐 Portfolio: **[Click here to view](https://new-portfolio-portfolio.vercel.app/)**   
+- 🌐 Portfolio: **[Click here to view](https://new-portfolio-portfolio.vercel.app/)**
+
+## 🏢 TheCOdex Software Solutions
+   Building AI-powered software products, cybersecurity solutions, SaaS platforms, and business automation tools for startups and businesses. 
+   Website: **[Visit Here](https://thecodexss.in)**
 
 ## 🚀 Currently Exploring
 
@@ -31,7 +35,7 @@
 ### 🌱 EcoCode Hackathon | New Delhi
 ♻️ Collaborated with a team to build innovative technology solutions addressing sustainability and environmental challenges.
 ### 🥇 Navonmesh Hackathon
-🏛️ Participated in the innovation challenge organized in collaboration with **RNTU** and **SCOPE University**, building practical solutions for real-world problems.
+🏛️ Participated in the innovation challenge organized in collaboration with **RNTU** and **SCOPE University** building practical solutions for real-world problems.
 ### 💡 HackPrix Hackathon | Hyderabad
 🚀 Built innovative software solutions under strict timelines while collaborating with a multidisciplinary team at **Lord Institute of Engineering & Technology**.
 ### ⚡ RNTU Tech-Fest Hackathon
@@ -92,21 +96,17 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 [Hackathon Projects](https://github.com/manjhicodecraft/Hackthon-Projects)
-💡 A collection of hackathon prototypes built under tight deadlines.  
-🛠 **Tech Stack:** C, C++, HTML, CSS  
-
-
+### 🔹 [ NextStepAI](https://github.com/manjhicodecraft/NextStepAi)
+💡An AI-powered business guidance platform that helps startups and entrepreneurs analyze their digital presence, identify business gaps, and receive personalized    recommendations for branding, automation, marketing, and sustainable business growth.
+**🛠 Tech Stack:** Java • Spring Boot • React • Gemini AI • MySQL  
 
 ### 🔹 [Vani AI](https://github.com/manjhicodecraft/Vani-Ai)
 🎙️ AI-powered **voice assistant** capable of executing commands & automating tasks.  
 🛠 **Tech Stack:** Python, AI/ML  
 
-
-
-### 🔹 [Inventory Management System](https://github.com/manjhicodecraft/Inventory-Management-System)
-📦 Tracks, updates, and manages stock efficiently using file handling.  
-🛠 **Tech Stack:** C++  
+### 🔹 [Trinetra Sentinel](https://github.com/manjhicodecraft/Log-EDR-detection-system)
+📦AI-powered offline cybersecurity desktop application that monitors local system activities, detects suspicious behavior, analyzes potential threats, and           provides intelligent security insights through behavioral monitoring.
+**🛠 Tech Stack:** Python • FastAPI • React • Electron • AI 
 
 ### 🔹 [Personal Expense Tracker](https://github.com/manjhicodecraft/minor-project-submit)
 📊 A simple and efficient application to track daily expenses, manage budgets, and analyze spending habits.
