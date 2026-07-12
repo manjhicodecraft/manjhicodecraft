@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://manjhicodecraft.github.io/portfolio/" target="_blank">Kajal Manjhi</a></h1>
-<h3 align="center">🚀 Aspiring Software Engineer | Backend Developer | Passionate Learner</h3>
+<h3 align="center">🚀Co-Founder @ TheCOdex Software Solutions </h3>
+<p align="center">Building modern software products, AI applications, and cybersecurity solutions for startups and businesses.</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=laddumanjhi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -8,24 +9,33 @@
 
 ## 🙋‍♀️ About Me
 
-- 🎓 3rd Year **Computer Science Engineering** student  
+- 🎓 I'm a Computer Science Engineering student and Co-Founder of **TheCOdex Software Solutions**, an early-stage software startup focused on building AI-powered products, SaaS platforms, cybersecurity tools, and business automation solutions. 
 - 🧠 Passionate about solving **real-world problems**  
-- 💻 Strong foundation in **C**, **C++**, and full-stack development  
-- 🚀 Always experimenting with new technologies  
-- 🌱 Currently learning **Java**  
+  💡 I enjoy transforming innovative ideas into scalable software products using modern technologies while continuously learning, building, and solving real-world problems.
 - 🤝 Love collaborating on team-based projects  
-- 💬 Ask me about **C and C++**  
 - 📫 Reach me at: **kajalmanjhi0407@gmail.com**  
-- 🌐 Portfolio: **[Click here to view](https://new-portfolio-portfolio.vercel.app/)**  
-- ⚡ Fun fact: Just started learning **GitHub** 🎉  
+- 🌐 Portfolio: **[Click here to view](https://new-portfolio-portfolio.vercel.app/)**   
 
+## 🚀 Currently Exploring
 
+🧠 Artificial Intelligence
+🔐 Cybersecurity
+⚡ Business Automation
+📦 SaaS Development
+☁️ Cloud Technologies
 
 ## 🏆 Hackathon Experience
 
-- 🥇 **Navonmesh Hackathon** – Organized with **RNTU** & **SCOPE University**  
-- 💡 **HackPrix**, Lord Institute Hyderabad – Focused on creativity and real-world solutions  
-- 🚀 **RNTU Tech-Fest Hackathon** – Showcased technical + teamwork skills  
+### 🇮🇳 AI for Bharat Hackathon
+🤖 Shortlisted for the Prototype Phase and developed an AI-powered solution focused on solving real-world challenges through innovation and modern technologies.
+### 🌱 EcoCode Hackathon | New Delhi
+♻️ Collaborated with a team to build innovative technology solutions addressing sustainability and environmental challenges.
+### 🥇 Navonmesh Hackathon
+🏛️ Participated in the innovation challenge organized in collaboration with **RNTU** and **SCOPE University**, building practical solutions for real-world problems.
+### 💡 HackPrix Hackathon | Hyderabad
+🚀 Built innovative software solutions under strict timelines while collaborating with a multidisciplinary team at **Lord Institute of Engineering & Technology**.
+### ⚡ RNTU Tech-Fest Hackathon
+🛠️ Developed a working prototype, strengthened problem-solving skills, and gained hands-on experience in rapid software development.
 
 
 ## 📬 Connect With Me
